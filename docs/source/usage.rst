@@ -27,6 +27,7 @@ will raise an exception.
 .. autoexception:: lumache.InvalidKindError
 
 For example:
+ pip -example
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
