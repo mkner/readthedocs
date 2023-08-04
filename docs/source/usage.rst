@@ -29,6 +29,11 @@ will raise an exception.
 For example:
  pip -example
 
+robot.pose()
+
+robot.sysclock.now()
+
+
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
