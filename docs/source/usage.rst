@@ -27,11 +27,12 @@ will raise an exception.
 .. autoexception:: lumache.InvalidKindError
 
 For example:
+
  pip -example
 
-robot.pose()
+  robot.pose()
 
-robot.sysclock.now()
+  robot.sysclock.now()
 
 
 >>> import lumache
