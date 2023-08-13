@@ -2,7 +2,8 @@ Demo Documentation
 ==================
 
 **demo** is a Python library for learning readthedocs
-that creates recipes mixing random ingredients.
+new line
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
